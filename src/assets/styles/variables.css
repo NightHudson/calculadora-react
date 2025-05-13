@@ -1,0 +1,16 @@
+:root {
+    /* Tamanhos */
+    --border-radius: 12px;
+    --button-size: 60px;
+    --button-radius: 12px;
+    --calculator-width: 320px;
+    --calculator-padding: 20px;
+  
+    /* Fontes */
+    --font-family: "Roboto", sans-serif;
+    --font-size-display: 2.5rem;
+    --font-size-history: 1rem;
+    --font-size-button: 1.25rem;
+    --font-size-title: 1.5rem;
+  }
+  

@@ -1,0 +1,42 @@
+:root {
+    /* Cores do tema claro (padrão) */
+    --color-bg: #f5f5f5;
+    --color-calculator-bg: #ffffff;
+    --color-display-bg: #f0f0f0;
+    --color-button-bg: #ffffff;
+    --color-button-operation-bg: #f0f0f0;
+    --color-button-equals-bg: #4caf50;
+    --color-button-clear-bg: #ff5252;
+  
+    --color-text: #333333;
+    --color-text-secondary: #666666;
+    --color-button-text: #333333;
+    --color-button-operation-text: #ff9800;
+    --color-button-equals-text: #ffffff;
+    --color-button-clear-text: #ffffff;
+  
+    --color-shadow: rgba(0, 0, 0, 0.1);
+    --color-border: #e0e0e0;
+  }
+  
+  [data-theme="dark"] {
+    /* Cores do tema escuro */
+    --color-bg: #121212;
+    --color-calculator-bg: #1e1e1e;
+    --color-display-bg: #2d2d2d;
+    --color-button-bg: #2d2d2d;
+    --color-button-operation-bg: #333333;
+    --color-button-equals-bg: #388e3c;
+    --color-button-clear-bg: #d32f2f;
+  
+    --color-text: #ffffff;
+    --color-text-secondary: #aaaaaa;
+    --color-button-text: #ffffff;
+    --color-button-operation-text: #ffb74d;
+    --color-button-equals-text: #ffffff;
+    --color-button-clear-text: #ffffff;
+  
+    --color-shadow: rgba(0, 0, 0, 0.3);
+    --color-border: #333333;
+  }
+  
