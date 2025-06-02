@@ -13,10 +13,11 @@ Este projeto é uma calculadora funcional desenvolvida com **React**, com o obje
 - Operações básicas: adição, subtração, multiplicação e divisão
 - Interface simples e responsiva
 - Lógica controlada por estados do React
+- Botão switch para alterna o tema em claro e escuro
 
 ## 📷 Preview
 
-![Preview da Calculadora](./preview.png) <!-- Atualize o nome da imagem ou remova esta seção, se necessário -->
+![Preview da Calculadora](https://github.com/NightHudson/calculadora-react) <!-- Atualize o nome da imagem ou remova esta seção, se necessário -->
 
 ## 📁 Como executar o projeto
 
@@ -26,4 +27,4 @@ Este projeto é uma calculadora funcional desenvolvida com **React**, com o obje
 git clone https://github.com/seu-usuario/nome-do-repo.git
 
 👨‍💻 Autor
-Desenvolvido por Hudson Bezerra, com orientação de Luan Oliveira.
+Desenvolvido por <b>Hudson Bezerra, com orientação de <b>Luan Oliveira.
