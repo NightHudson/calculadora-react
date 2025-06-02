@@ -1,30 +1,25 @@
 # 🧮 Calculadora em React
 
-Este projeto é uma calculadora funcional desenvolvida com **React**, com o objetivo de praticar conceitos de componentes, estados e interatividade em aplicações front-end.
+Este é um projeto de uma **calculadora básica** desenvolvida com **React**, como forma de praticar os fundamentos do React como componentes, estados (`useState`) e manipulação de eventos.
 
 ## 🚀 Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/) — para build e desenvolvimento rápido
-- HTML e CSS para a estrutura e estilização
+- [Vite](https://vitejs.dev/) para ambiente de desenvolvimento rápido
+- HTML + CSS para estrutura e estilo
 
-## 🛠️ Funcionalidades
+## ✨ Funcionalidades
 
-- Operações básicas: adição, subtração, multiplicação e divisão
-- Interface simples e responsiva
-- Lógica controlada por estados do React
-- Botão switch para alterna o tema em claro e escuro
+- Operações matemáticas básicas: adição, subtração, multiplicação e divisão
+- Interface amigável e responsiva
+- Feedback visual de interação dos botões
+- Lógica 100% controlada via React
+- Botão switch para alternar o tema em claro e escuro
 
-## 📷 Preview
+## 📷 Imagem do Projeto
 
-![Preview da Calculadora](https://github.com/NightHudson/calculadora-react) <!-- Atualize o nome da imagem ou remova esta seção, se necessário -->
+Adicione aqui uma imagem da interface da calculadora:
 
-## 📁 Como executar o projeto
+✍️ Feito por Hudson Bezerra
+🎓 Com orientação de Luan Oliveira
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-
-👨‍💻 Autor
-Desenvolvido por Hudson Bezerra, com orientação de Luan Oliveira.
