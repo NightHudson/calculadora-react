@@ -18,7 +18,7 @@ Este é um projeto de uma **calculadora básica** desenvolvida com **React**, co
 
 ## 📷 Imagem do Projeto
 
-Adicione aqui uma imagem da interface da calculadora:
+![Captura de tela 2025-06-02 143838](https://github.com/user-attachments/assets/38410782-65f4-46a1-ad40-7a59ba79eaac)
 
 ✍️ Feito por Hudson Bezerra
 🎓 Com orientação de Luan Oliveira
