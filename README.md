@@ -27,4 +27,4 @@ Este projeto é uma calculadora funcional desenvolvida com **React**, com o obje
 git clone https://github.com/seu-usuario/nome-do-repo.git
 
 👨‍💻 Autor
-Desenvolvido por <b>Hudson Bezerra, com orientação de <b>Luan Oliveira.
+Desenvolvido por Hudson Bezerra, com orientação de Luan Oliveira.
